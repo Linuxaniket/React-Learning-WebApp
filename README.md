@@ -62,11 +62,11 @@ npm run dev
 App will be available at: http://localhost:5173
 
 ## 🤝 Contributions
--Want to help expand the platform? Feel free to:
--Fork this repo
--Create a branch: git checkout -b new-topic/useEffect
--Commit your changes
--Open a pull request!
+- Want to help expand the platform? Feel free to:
+- Fork this repo
+- Create a branch: git checkout -b new-topic/useEffect
+- Commit your changes
+- Open a pull request!
 Your contribution will help others learn too 🚀
 
 ## 📬 Contact
@@ -74,8 +74,8 @@ Made with 💙 by Aniket Dahire
 
 Let’s connect and collaborate on frontend, open source, or learning tools!
 
-⭐ If You Like This Project
-⭐ Star this repo
-🔁 Share it with fellow developers
-💼 Add it to your portfolio
-💬 Mention it in your resume and interviews!
+- ⭐ If You Like This Project
+- ⭐ Star this repo
+- 🔁 Share it with fellow developers
+- 💼 Add it to your portfolio
+- 💬 Mention it in your resume and interviews!
